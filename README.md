@@ -1,4 +1,4 @@
-### Hi there 👋,I'm [Rohan Khatwani]
+### Hi there 👋,I'm Rohan Khatwani
 #### MACHINE LEARNING RESEARCHER || SOFTWARE DEVELOPER || TECH ENTHUSIAST
 
 Currently : Machine Learning Intern at Highradius
