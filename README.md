@@ -1,7 +1,7 @@
 ### Hi there 👋,I'm Rohan Khatwani
 #### MACHINE LEARNING RESEARCHER || SOFTWARE DEVELOPER || TECH ENTHUSIAST
 
-Currently : Data Science Trainee at Algo8.ai
+Currently : Junior Data Scientist at Algo8.ai
 
 Interested in everything and anything remotely related to tech be it latest CPUs, Mobile Phones or TVs. I am always open to healthy discussions & debates.
 Always out to help/guide by sharing my personal experiences and point of views, feel free to connect.
